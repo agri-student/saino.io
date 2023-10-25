@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="position.css">
+</head>
+<body>
+    <header>
+        <div class="top">
+            <h1>西条農業高校</h1>
+            <p>メニュー</p>
+        </div>
+    </header>
+    <main>
+            <div class="red">
+                <img src="田植え.JPG" alt="">
+                <p>西条で農高な体験</p>
+            </div>
+
+            <div class="pic">
+                <div>
+                    <img src="ソラマメ.png" alt="">
+                    <p>ソラマメの収穫</p>
+                </div>
+                <div>
+                    <img src="GPS.jpg" alt="">
+                    <p>GPS田植え機</p>
+                </div>
+                <div>
+                    <img src="収穫.JPG" alt="">
+                    <p>稲刈り</p>
+                </div>
+                <div>
+                    <img src="アンテナ.jpg" alt="">
+                    <p>アンテナショップ</p>
+                </div>
+            </div>
+    </main>
+    
+</body>
+</html>
